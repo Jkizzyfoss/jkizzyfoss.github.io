@@ -1,8 +1,17 @@
 body {
-  background-color: blue;
+  background-color: rgb(48, 48, 48);
 }
 
 h1 {
-  color: black;
+  color: whitesmoke;
   margin-left: 20px;
+}
+
+.small {
+ color: black;
+ margin-top: 200px;
+}
+
+.main{
+  color: whitesmoke;
 }
